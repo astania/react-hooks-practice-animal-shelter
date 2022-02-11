@@ -1,8 +1,8 @@
 import React from "react";
 
-function Filters({filters, setFilters, onChangeType, onFindPets}) {
+function Filters({ onChangeType, onFindPets}) {
   return (
-    
+
 
     <div className="ui form">
       <h3>Animal type</h3>
