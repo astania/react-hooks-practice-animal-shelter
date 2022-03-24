@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-
 import Filters from "./Filters";
 import PetBrowser from "./PetBrowser";
 
